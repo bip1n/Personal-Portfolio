@@ -54,27 +54,27 @@ export const features = [
 export const feedback = [
   {
     id: "feedback-1",
-    content:
-      "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
-    name: "Herman Jensen",
-    title: "Founder & Leader",
-    img: people01,
+    content:"Student MIS is a comprehensive software tool that enables schools to track student enrollment, attendance, grades, and other relevant information, while providing a user-friendly interface for administrators, teachers, and parents to access and update student records.",
+    name: "Student - MIS",
+    title: "https://github.com/bip1n/student-mis",
   },
   {
     id: "feedback-2",
-    content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
-    name: "Steve Mark",
-    title: "Founder & Leader",
-    img: people02,
+    content:"Project Description",
+    name: "Project Title - 2",
+    title: "Github Repo Link",
   },
   {
     id: "feedback-3",
-    content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
-    name: "Kenn Gallagher",
-    title: "Founder & Leader",
-    img: people03,
+    content:"Project Description",
+    name: "Project Title - 3",
+    title: "Github Repo Link",
+  },
+  {
+    id: "feedback-4",
+    content:"Project Description",
+    name: "Project Title - 4",
+    title: "Github Repo Link",
   },
 ];
 
