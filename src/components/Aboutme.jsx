@@ -17,7 +17,7 @@ const Aboutme = () => (
         About Me <br className="sm:block hidden" /> 
       </h2>
       <p className={`${styles.paragraph} max-w-[600px] mt-5`}>
-      I'm Bhabishwar Khanal, simply Bipin. I'm currently studying Software Engineering at NCIT, Lalitpur. I'm interested in CyberSecurity as well as Web Development. Beside these I'm also interested in photography, editing and content writing.
+      Yeha chai mero barema badhai chadhai garera 1 paragraph lekhnu parchha.
       </p>
       <p className={`${styles.paragraph} max-w-[600px] mt-5`}>
         Find me on :

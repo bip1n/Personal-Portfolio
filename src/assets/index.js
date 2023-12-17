@@ -1,9 +1,5 @@
-import airbnb from "./airbnb.png";
 import user from "./user.jpg";
-import binance from "./binance.png";
 import card from "./card.png";
-import coinbase from "./coinbase.png";
-import dropbox from "./dropbox.png";
 import logo from "./logo.png";
 import quotes from "./quotes.svg";
 import robot from "./back4.png";
@@ -26,11 +22,7 @@ import people03 from "./people03.png";
 
 export {
   user,
-  airbnb,
-  binance,
   card,
-  coinbase,
-  dropbox,
   logo,
   quotes,
   robot,

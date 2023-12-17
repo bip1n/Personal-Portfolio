@@ -22,15 +22,12 @@ const Business = () =>  (
   <section id="features" className={layout.section}>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        About Me<br className="sm:block hidden" />
+        My Skills<br className="sm:block hidden" />
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        With the right credit card, you can improve your financial life by
-        building credit, earning rewards and saving money. But with hundreds
-        of credit cards on the market.
+        I don't have any skills. Tehi pani yeha aafulai thaha bhayeko kehi programming languages ko barema lekhidinchhu hai ta.
       </p>
 
-      <Button styles={`mt-10`} />
     </div>
 
     <div className={`${layout.sectionImg} flex-col`}>
