@@ -62,19 +62,19 @@ export const feedback = [
     id: "feedback-2",
     content:"Project Description",
     name: "Project Title - 2",
-    link: "Github Repo Link",
+    link: "",
   },
   {
     id: "feedback-3",
     content:"Project Description",
     name: "Project Title - 3",
-    title: "Github Repo Link",
+    link: "",
   },
   {
     id: "feedback-4",
     content:"Project Description",
     name: "Project Title - 4",
-    title: "Github Repo Link",
+    link: "",
   },
 ];
 

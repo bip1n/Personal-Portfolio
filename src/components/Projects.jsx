@@ -11,7 +11,7 @@ const Testimonials = () => (
         Projects <br className="sm:block hidden" /> </h2>
       <div className="w-full md:mt-0 mt-6">
         <p className={`${styles.paragraph} text-left max-w-[450px]`}>
-            Yeha chai aafule start gareko tara succeed nabhako project haru ko repo link haldinchhu.
+            These are the projects with the github repository links I've done so far.
         </p>
       </div>
     </div>
