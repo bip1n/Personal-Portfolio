@@ -1,4 +1,4 @@
-import { people01, people02, people03, facebook, instagram, linkedin, twitter, star  } from "../assets";
+import { facebook, instagram, linkedin, github} from "../assets";
 
 export const navLinks = [
   {
@@ -23,7 +23,7 @@ export const navLinks = [
 export const features = [
   {
     id: "feature-1",
-    icon: star,
+    icon: github,
     title: "Github",
     content:
       "The best credit cards offer some tantalizing combinations of promotions and prizes",
@@ -166,22 +166,22 @@ export const socialMedia = [
   {
     id: "social-media-1",
     icon: instagram,
-    link: "https://www.instagram.com/",
+    link: "https://www.instagram.com/bipinwhooo",
   },
   {
     id: "social-media-2",
     icon: facebook,
-    link: "https://www.facebook.com/",
+    link: "https://www.facebook.com/bipinkhanal69/",
   },
   {
     id: "social-media-3",
-    icon: twitter,
-    link: "https://www.twitter.com/",
+    icon: github,
+    link: "https://www.github.com/bip1n",
   },
   {
     id: "social-media-4",
     icon: linkedin,
-    link: "https://www.linkedin.com/",
+    link: "https://www.linkedin.com/in/bipin-khanal-03b257228/",
   },
 ];
 
