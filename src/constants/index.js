@@ -56,13 +56,13 @@ export const feedback = [
     id: "feedback-1",
     content:"Student MIS is a comprehensive software tool that enables schools to track student enrollment, attendance, grades, and other relevant information, while providing a user-friendly interface for administrators, teachers, and parents to access and update student records.",
     name: "Student - MIS",
-    title: "https://github.com/bip1n/student-mis",
+    link: "https://github.com/bip1n/student-mis",
   },
   {
     id: "feedback-2",
     content:"Project Description",
     name: "Project Title - 2",
-    title: "Github Repo Link",
+    link: "Github Repo Link",
   },
   {
     id: "feedback-3",
