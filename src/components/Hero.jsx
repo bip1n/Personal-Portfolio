@@ -9,15 +9,15 @@ const Hero = () => {
 
         <div className="flex flex-row justify-between items-center w-full">
           <h1 className="flex-1 font-poppins font-semibold ss:text-[72px] text-[52px] text-white ss:leading-[100.8px] leading-[75px]">
-            Hey, It's <br className="sm:flex hidden" />{" "}
-            <span className="text-gradient">Mero Name</span>{" "}
+            Hey, It's <br></br>
+            <div  className="text-gradient">Bhabishwar Khanal</div>{" "}
           </h1>
           <div className="ss:flex hidden md:mr-4 mr-0">
           </div>
         </div>
 
-        <h1 className="font-poppins font-semibold ss:text-[38px] text-[52px] text-white ss:leading-[100.8px] leading-[75px] w-full">
-         - Yeha Kehi Lekhnu Parchha!!!
+        <h1 className="font-poppins font-semibold ss:text-[28px] text-[32px] text-white ss:leading-[100.8px] leading-[75px] w-full">
+         - Desperate To Learn!!!
         </h1>
        
       </div>
